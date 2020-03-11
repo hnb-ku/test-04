@@ -1,0 +1,6 @@
+{
+  "name": "preload test",
+  "about_url": null,
+  "license_url": null,
+  "components": ["https://github.com/discourse/discourse-topic-author"],
+}
