@@ -4,7 +4,6 @@
   "license_url": null,
   "components": [
     "https://github.com/discourse/discourse-topic-author",
-    "https://github.com/discourse/Discourse-easy-footer",
     "https://github.com/pmusaraj/discourse-jitsi"
   ]
 }
